@@ -6,7 +6,7 @@ Submitted by: **NAME**
 
 Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://191c363d-cd70-412d-bef3-0c161138c235@api.glitch.com/git/lightsoundmemgame)
 
 ## Required Functionality
 
